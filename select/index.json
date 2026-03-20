@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "曖昧トリップ (w/ 桃箱 & miko)",
+  "base_artist": "Yunomi",
+  "createdAt": "2026-03-20T06:14:10.761298Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "曖昧トリップ (w/ 桃箱 & miko)",
+      "artist": "Yunomi",
+      "has_synced": true,
+      "path": "select/01_曖昧トリップ_(w__桃箱_&_miko)_Yunomi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "曖昧トリップ",
+      "artist": "Yunomi w/ 桃箱 & miko",
+      "has_synced": true,
+      "path": "select/02_曖昧トリップ_Yunomi_w__桃箱_&_miko.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "曖昧トリップ (w/ 桃箱 & miko) [Instrumental]",
+      "artist": "Yunomi",
+      "has_synced": true,
+      "path": "select/03_曖昧トリップ_(w__桃箱_&_miko)_[Instrumental]_Yunomi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "曖昧トリップ",
+      "artist": "Yunomi/桃箱/miko",
+      "has_synced": true,
+      "path": "select/04_曖昧トリップ_Yunomi_桃箱_miko.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "曖昧トリップ",
+      "artist": "Yunomi",
+      "has_synced": true,
+      "path": "select/05_曖昧トリップ_Yunomi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "曖昧トリップ [Instrumental]",
+      "artist": "Yunomi w/ 桃箱 & miko",
+      "has_synced": true,
+      "path": "select/06_曖昧トリップ_[Instrumental]_Yunomi_w__桃箱_&_miko.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "曖昧トリップ [Instrumental]",
+      "artist": "Yunomi w/ Momobako",
+      "has_synced": true,
+      "path": "select/07_曖昧トリップ_[Instrumental]_Yunomi_w__Momobako.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "曖昧トリップ（ソロver）",
+      "artist": "Yunomi",
+      "has_synced": true,
+      "path": "select/08_曖昧トリップ(ソロver)_Yunomi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "曖昧トリップ [Instrumental]",
+      "artist": "Yunomi",
+      "has_synced": true,
+      "path": "select/09_曖昧トリップ_[Instrumental]_Yunomi.lrc"
+    }
+  ]
+}
